@@ -71,3 +71,5 @@ WHERE columnId = (
 | 1000 Rows                       | 39.6Mb        | 86ms               | (47 – 133) ms    | (123 – 157) ms    |
 | 5000 Rows                       | 197.7Mb       | 106ms               | (158 – 197) ms    | (100 – 116) ms    |
 
+<img width="701" alt="plt" src="https://user-images.githubusercontent.com/39624487/165746673-ed8f0dfd-6de5-4f96-82fd-06fe1e7a9ca9.png">
+
